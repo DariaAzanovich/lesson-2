@@ -130,3 +130,7 @@
   height: 31px;
   vertical-align: middle;
 }
+
+p {
+  margin: 0;
+}
